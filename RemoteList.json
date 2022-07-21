@@ -1,5 +1,5 @@
 [   
-    ["join",            "join-code-card",                   "VISIT_ONLINE_ISLAND"                 ],
+    ["join",            "join-code-card",                   "VISIT_ONLINE_ISLAND"                       ],
     ["chestAction",     "chest-inventory-click-handler",    "CLIENT_CHEST_TRANSACTION"                  ],
     ["leaveRequest",    "seasonal-villager-shop-mind",      "RequestVillagerLeave"                      ],
 
