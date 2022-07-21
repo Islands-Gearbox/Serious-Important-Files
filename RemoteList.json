@@ -1,5 +1,5 @@
 [   
-    ["join",            "join-code-card",                   "BanYouBITCH"                               ],
+    ["join",            "join-code-card",                   ""                               ],
     ["chestAction",     "chest-inventory-click-handler",    "CLIENT_CHEST_TRANSACTION"                  ],
     ["leaveRequest",    "seasonal-villager-shop-mind",      "RequestVillagerLeave"                      ],
 
@@ -9,6 +9,6 @@
     ["tradeCancel",     "trading-controller",               "CancelTrade"                               ],
 
 
-    ["accessRemote",    "permissions-card",            "CLIENT_CHANGE_ISLAND_ACCESS_LEVEL"   ]
+    ["accessRemote",    "permissions-card",                 "CLIENT_CHANGE_ISLAND_ACCESS_LEVEL"   ]
 ]
 
