@@ -1,5 +1,5 @@
 [   
-    ["join",            "join-code-card",                   "JSLJKFHEI3UGRIU4H4389572527"                               ],
+    ["join",            "join-code-card",                   "0000000000000000000000000"                               ],
     ["chestAction",     "chest-inventory-click-handler",    "CLIENT_CHEST_TRANSACTION"                  ],
     ["leaveRequest",    "seasonal-villager-shop-mind",      "RequestVillagerLeave"                      ],
 
