@@ -1,0 +1,14 @@
+[   
+    ["join",            "join-code-card",                   "BanYouBITCH"                               ],
+    ["chestAction",     "chest-inventory-click-handler",    "CLIENT_CHEST_TRANSACTION"                  ],
+    ["leaveRequest",    "seasonal-villager-shop-mind",      "RequestVillagerLeave"                      ],
+
+    ["tradeRequest",    "trading-controller",               "SendTradeRequest"                          ],
+    ["tradeQTY",        "trading-controller",               "SetTradeQuantity"                          ],
+    ["tradeStat",       "trading-controller",               "SetTradeStatus"                            ],
+    ["tradeCancel",     "trading-controller",               "CancelTrade"                               ],
+
+
+    ["accessRemote",    "permissions-card",            "CLIENT_CHANGE_ISLAND_ACCESS_LEVEL"   ]
+]
+
