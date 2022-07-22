@@ -9,6 +9,10 @@
     ["tradeCancel",     "trading-controller",               "CancelTrade"                               ],
 
 
-    ["accessRemote",    "permissions-card",                 "CLIENT_CHANGE_ISLAND_ACCESS_LEVEL"         ]
+    ["accessRemote",    "permissions-card",                 "CLIENT_CHANGE_ISLAND_ACCESS_LEVEL"         ],
+
+    ["orderRequest",    "selected-offer",                     "CLIENT_MERCHANT_ORDER_REQUEST"         ]
+
+   
 ]
 
